@@ -1,0 +1,24 @@
+{
+  "name": "swejobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geokeloglou/swejobs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geokeloglou/swejobs/issues"
+  },
+  "homepage": "https://github.com/geokeloglou/swejobs#readme",
+  "dependencies": {
+    "cron": "1.7.2",
+    "node-fetch": "2.6.0"
+  }
+}
